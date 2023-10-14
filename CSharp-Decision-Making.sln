@@ -5,19 +5,21 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp-Decision-Making", "CSharp-Decision-Making\CSharp-Decision-Making.csproj", "{D570F6F1-4EE8-4AC3-82A5-264EC9490131}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Decision-Making-2", "Csharp-Decision-Making-2\Csharp-Decision-Making-2.csproj", "{20CDC003-7FB9-4FC2-A27B-428729B983CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csharp-Decision-Making-2", "Csharp-Decision-Making-2\Csharp-Decision-Making-2.csproj", "{20CDC003-7FB9-4FC2-A27B-428729B983CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested-If-Statement", "Nested-If-Statement\Nested-If-Statement.csproj", "{DC61CA8E-81AA-4A06-88B4-1E065B320292}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nested-If-Statement", "Nested-If-Statement\Nested-If-Statement.csproj", "{DC61CA8E-81AA-4A06-88B4-1E065B320292}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested-If-Else-Statement", "Nested-If-Else-Statement\Nested-If-Else-Statement.csproj", "{FCB23129-C7C7-40AC-BC17-BD2F81DA957B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nested-If-Else-Statement", "Nested-If-Else-Statement\Nested-If-Else-Statement.csproj", "{FCB23129-C7C7-40AC-BC17-BD2F81DA957B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch-Statement", "Switch-Statement\Switch-Statement.csproj", "{A0EB3345-2190-4E3F-B188-0C57F6ED34F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch-Statement", "Switch-Statement\Switch-Statement.csproj", "{A0EB3345-2190-4E3F-B188-0C57F6ED34F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested-Switch-Statement", "Nested-Switch-Statement\Nested-Switch-Statement.csproj", "{FE1B71DD-8A4E-4318-8920-0FA03F7E072C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nested-Switch-Statement", "Nested-Switch-Statement\Nested-Switch-Statement.csproj", "{FE1B71DD-8A4E-4318-8920-0FA03F7E072C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested-Switch-Statement-2", "Nested-Switch-Statement-2\Nested-Switch-Statement-2.csproj", "{6BF4622E-8F12-4305-A618-7102E39D496A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nested-Switch-Statement-2", "Nested-Switch-Statement-2\Nested-Switch-Statement-2.csproj", "{6BF4622E-8F12-4305-A618-7102E39D496A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleConsoleSoftwareSwitchCase", "SimpleConsoleSoftwareSwitchCase\SimpleConsoleSoftwareSwitchCase.csproj", "{90AF70C8-1945-471C-B369-57446C799CAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleConsoleSoftwareSwitchCase", "SimpleConsoleSoftwareSwitchCase\SimpleConsoleSoftwareSwitchCase.csproj", "{90AF70C8-1945-471C-B369-57446C799CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ternary-Operator", "Ternary-Operator\Ternary-Operator.csproj", "{160282AA-CD96-4F80-A8B9-64733BD3E69D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{90AF70C8-1945-471C-B369-57446C799CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90AF70C8-1945-471C-B369-57446C799CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90AF70C8-1945-471C-B369-57446C799CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{160282AA-CD96-4F80-A8B9-64733BD3E69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160282AA-CD96-4F80-A8B9-64733BD3E69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160282AA-CD96-4F80-A8B9-64733BD3E69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160282AA-CD96-4F80-A8B9-64733BD3E69D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
